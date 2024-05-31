@@ -1,0 +1,21 @@
+name: h1
+
+channels:
+- conda-forge
+- defaults
+
+dependencies:
+  - python
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - hypso
+  - jupyter
+  - jupyterlab
+  - satpy
+  - pyresample
+  - xarray
+  - dask
+  - netcdf4
+  - cartopy
