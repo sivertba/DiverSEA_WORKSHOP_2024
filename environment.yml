@@ -1,4 +1,4 @@
-name: h1
+name: diversea
 
 channels:
 - conda-forge
@@ -19,3 +19,5 @@ dependencies:
   - dask
   - netcdf4
   - cartopy
+  - hypso
+  - plotly
